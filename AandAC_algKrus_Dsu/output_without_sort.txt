@@ -1,0 +1,1816 @@
+test1. n=[1..1e4+1]/100, m=n*n/10, q=1, r=1e6 
+N = 1, M = 0. Time norm = 0. Time compres = 0.
+N = 101, M = 1020. Time norm = 0. Time compres = 1.
+N = 201, M = 4040. Time norm = 2. Time compres = 1.
+N = 301, M = 9060. Time norm = 5. Time compres = 2.
+N = 401, M = 16080. Time norm = 3. Time compres = 2.
+N = 501, M = 25100. Time norm = 5. Time compres = 3.
+N = 601, M = 36120. Time norm = 6. Time compres = 5.
+N = 701, M = 49140. Time norm = 9. Time compres = 7.
+N = 801, M = 64160. Time norm = 12. Time compres = 8.
+N = 901, M = 81180. Time norm = 15. Time compres = 11.
+N = 1001, M = 100200. Time norm = 19. Time compres = 12.
+N = 1101, M = 121220. Time norm = 24. Time compres = 16.
+N = 1201, M = 144240. Time norm = 28. Time compres = 19.
+N = 1301, M = 169260. Time norm = 32. Time compres = 22.
+N = 1401, M = 196280. Time norm = 40. Time compres = 25.
+N = 1501, M = 225300. Time norm = 43. Time compres = 28.
+N = 1601, M = 256320. Time norm = 56. Time compres = 35.
+N = 1701, M = 289340. Time norm = 56. Time compres = 39.
+N = 1801, M = 324360. Time norm = 62. Time compres = 43.
+N = 1901, M = 361380. Time norm = 76. Time compres = 46.
+N = 2001, M = 400400. Time norm = 80. Time compres = 51.
+N = 2101, M = 441420. Time norm = 84. Time compres = 57.
+N = 2201, M = 484440. Time norm = 97. Time compres = 61.
+N = 2301, M = 529460. Time norm = 125. Time compres = 69.
+N = 2401, M = 576480. Time norm = 110. Time compres = 74.
+N = 2501, M = 625500. Time norm = 135. Time compres = 87.
+N = 2601, M = 676520. Time norm = 132. Time compres = 86.
+N = 2701, M = 729540. Time norm = 142. Time compres = 93.
+N = 2801, M = 784560. Time norm = 152. Time compres = 126.
+N = 2901, M = 841580. Time norm = 196. Time compres = 108.
+N = 3001, M = 900600. Time norm = 180. Time compres = 161.
+N = 3101, M = 961620. Time norm = 220. Time compres = 194.
+N = 3201, M = 1024640. Time norm = 241. Time compres = 166.
+N = 3301, M = 1089660. Time norm = 212. Time compres = 212.
+N = 3401, M = 1156680. Time norm = 228. Time compres = 147.
+N = 3501, M = 1225700. Time norm = 329. Time compres = 155.
+N = 3601, M = 1296720. Time norm = 303. Time compres = 183.
+N = 3701, M = 1369740. Time norm = 277. Time compres = 175.
+N = 3801, M = 1444760. Time norm = 396. Time compres = 244.
+N = 3901, M = 1521780. Time norm = 295. Time compres = 192.
+N = 4001, M = 1600800. Time norm = 344. Time compres = 218.
+N = 4101, M = 1681820. Time norm = 363. Time compres = 214.
+N = 4201, M = 1764840. Time norm = 345. Time compres = 222.
+N = 4301, M = 1849860. Time norm = 423. Time compres = 294.
+N = 4401, M = 1936880. Time norm = 391. Time compres = 246.
+N = 4501, M = 2025900. Time norm = 401. Time compres = 256.
+N = 4601, M = 2116920. Time norm = 410. Time compres = 269.
+N = 4701, M = 2209940. Time norm = 447. Time compres = 279.
+N = 4801, M = 2304960. Time norm = 442. Time compres = 292.
+N = 4901, M = 2401980. Time norm = 449. Time compres = 305.
+N = 5001, M = 2501000. Time norm = 488. Time compres = 316.
+N = 5101, M = 2602020. Time norm = 519. Time compres = 345.
+N = 5201, M = 2705040. Time norm = 559. Time compres = 343.
+N = 5301, M = 2810060. Time norm = 595. Time compres = 356.
+N = 5401, M = 2917080. Time norm = 575. Time compres = 369.
+N = 5501, M = 3026100. Time norm = 603. Time compres = 414.
+N = 5601, M = 3137120. Time norm = 619. Time compres = 397.
+N = 5701, M = 3250140. Time norm = 622. Time compres = 412.
+N = 5801, M = 3365160. Time norm = 658. Time compres = 426.
+N = 5901, M = 3482180. Time norm = 677. Time compres = 472.
+N = 6001, M = 3601200. Time norm = 745. Time compres = 455.
+N = 6101, M = 3722220. Time norm = 732. Time compres = 472.
+N = 6201, M = 3845240. Time norm = 740. Time compres = 490.
+N = 6301, M = 3970260. Time norm = 818. Time compres = 505.
+N = 6401, M = 4097280. Time norm = 807. Time compres = 525.
+N = 6501, M = 4226300. Time norm = 829. Time compres = 538.
+N = 6601, M = 4357320. Time norm = 865. Time compres = 554.
+N = 6701, M = 4490340. Time norm = 885. Time compres = 571.
+N = 6801, M = 4625360. Time norm = 968. Time compres = 588.
+N = 6901, M = 4762380. Time norm = 949. Time compres = 606.
+N = 7001, M = 4901400. Time norm = 986. Time compres = 622.
+N = 7101, M = 5042420. Time norm = 1000. Time compres = 639.
+N = 7201, M = 5185440. Time norm = 1119. Time compres = 660.
+N = 7301, M = 5330460. Time norm = 1095. Time compres = 689.
+N = 7401, M = 5477480. Time norm = 4104. Time compres = 2629.
+N = 7501, M = 5626500. Time norm = 1148. Time compres = 782.
+N = 7601, M = 5777520. Time norm = 1394. Time compres = 732.
+N = 7701, M = 5930540. Time norm = 1225. Time compres = 796.
+N = 7801, M = 6085560. Time norm = 1274. Time compres = 855.
+N = 7901, M = 6242580. Time norm = 1269. Time compres = 793.
+N = 8001, M = 6401600. Time norm = 1243. Time compres = 812.
+N = 8101, M = 6562620. Time norm = 1325. Time compres = 833.
+N = 8201, M = 6725640. Time norm = 1385. Time compres = 852.
+N = 8301, M = 6890660. Time norm = 1385. Time compres = 875.
+N = 8401, M = 7057680. Time norm = 1482. Time compres = 895.
+N = 8501, M = 7226700. Time norm = 1670. Time compres = 917.
+N = 8601, M = 7397720. Time norm = 1502. Time compres = 938.
+N = 8701, M = 7570740. Time norm = 1511. Time compres = 960.
+N = 8801, M = 7745760. Time norm = 1547. Time compres = 984.
+N = 8901, M = 7922780. Time norm = 1678. Time compres = 1005.
+N = 9001, M = 8101800. Time norm = 1605. Time compres = 1030.
+N = 9101, M = 8282820. Time norm = 1590. Time compres = 1052.
+N = 9201, M = 8465840. Time norm = 1688. Time compres = 1092.
+N = 9301, M = 8650860. Time norm = 1694. Time compres = 1099.
+N = 9401, M = 8837880. Time norm = 1883. Time compres = 1123.
+N = 9501, M = 9026900. Time norm = 1964. Time compres = 1146.
+N = 9601, M = 9217920. Time norm = 1883. Time compres = 1172.
+N = 9701, M = 9410940. Time norm = 2009. Time compres = 1196.
+N = 9801, M = 9605960. Time norm = 1962. Time compres = 1223.
+N = 9901, M = 9802980. Time norm = 1992. Time compres = 1250.
+N = 10001, M = 10002000. Time norm = 2058. Time compres = 1270.
+0
+0
+2
+5
+3
+5
+6
+9
+12
+15
+19
+24
+28
+32
+40
+43
+56
+56
+62
+76
+80
+84
+97
+125
+110
+135
+132
+142
+152
+196
+180
+220
+241
+212
+228
+329
+303
+277
+396
+295
+344
+363
+345
+423
+391
+401
+410
+447
+442
+449
+488
+519
+559
+595
+575
+603
+619
+622
+658
+677
+745
+732
+740
+818
+807
+829
+865
+885
+968
+949
+986
+1000
+1119
+1095
+4104
+1148
+1394
+1225
+1274
+1269
+1243
+1325
+1385
+1385
+1482
+1670
+1502
+1511
+1547
+1678
+1605
+1590
+1688
+1694
+1883
+1964
+1883
+2009
+1962
+1992
+2058
+
+0
+1
+1
+2
+2
+3
+5
+7
+8
+11
+12
+16
+19
+22
+25
+28
+35
+39
+43
+46
+51
+57
+61
+69
+74
+87
+86
+93
+126
+108
+161
+194
+166
+212
+147
+155
+183
+175
+244
+192
+218
+214
+222
+294
+246
+256
+269
+279
+292
+305
+316
+345
+343
+356
+369
+414
+397
+412
+426
+472
+455
+472
+490
+505
+525
+538
+554
+571
+588
+606
+622
+639
+660
+689
+2629
+782
+732
+796
+855
+793
+812
+833
+852
+875
+895
+917
+938
+960
+984
+1005
+1030
+1052
+1092
+1099
+1123
+1146
+1172
+1196
+1223
+1250
+1270
+ test2. n=[1..1e4+1]/100, m=n*n, q=1, r=1e6 
+N = 1, M = 0. Time norm = 0. Time compres = 0.
+N = 101, M = 5050. Time norm = 0. Time compres = 1.
+N = 201, M = 20100. Time norm = 2. Time compres = 1.
+N = 301, M = 45150. Time norm = 2. Time compres = 2.
+N = 401, M = 80200. Time norm = 5. Time compres = 4.
+N = 501, M = 125250. Time norm = 8. Time compres = 5.
+N = 601, M = 180300. Time norm = 11. Time compres = 7.
+N = 701, M = 245350. Time norm = 15. Time compres = 10.
+N = 801, M = 320400. Time norm = 18. Time compres = 13.
+N = 901, M = 405450. Time norm = 23. Time compres = 16.
+N = 1001, M = 500500. Time norm = 32. Time compres = 20.
+N = 1101, M = 605550. Time norm = 38. Time compres = 24.
+N = 1201, M = 720600. Time norm = 46. Time compres = 29.
+N = 1301, M = 845650. Time norm = 50. Time compres = 33.
+N = 1401, M = 980700. Time norm = 60. Time compres = 39.
+N = 1501, M = 1125750. Time norm = 72. Time compres = 45.
+N = 1601, M = 1280800. Time norm = 76. Time compres = 51.
+N = 1701, M = 1445850. Time norm = 102. Time compres = 58.
+N = 1801, M = 1620900. Time norm = 100. Time compres = 65.
+N = 1901, M = 1805950. Time norm = 107. Time compres = 72.
+N = 2001, M = 2001000. Time norm = 120. Time compres = 80.
+N = 2101, M = 2206050. Time norm = 141. Time compres = 87.
+N = 2201, M = 2421100. Time norm = 158. Time compres = 95.
+N = 2301, M = 2646150. Time norm = 161. Time compres = 104.
+N = 2401, M = 2881200. Time norm = 183. Time compres = 116.
+N = 2501, M = 3126250. Time norm = 184. Time compres = 125.
+N = 2601, M = 3381300. Time norm = 207. Time compres = 135.
+N = 2701, M = 3646350. Time norm = 223. Time compres = 145.
+N = 2801, M = 3921400. Time norm = 236. Time compres = 155.
+N = 2901, M = 4206450. Time norm = 265. Time compres = 167.
+N = 3001, M = 4501500. Time norm = 283. Time compres = 178.
+N = 3101, M = 4806550. Time norm = 298. Time compres = 191.
+N = 3201, M = 5121600. Time norm = 302. Time compres = 203.
+N = 3301, M = 5446650. Time norm = 317. Time compres = 216.
+N = 3401, M = 5781700. Time norm = 348. Time compres = 230.
+N = 3501, M = 6126750. Time norm = 369. Time compres = 243.
+N = 3601, M = 6481800. Time norm = 403. Time compres = 256.
+N = 3701, M = 6846850. Time norm = 414. Time compres = 274.
+N = 3801, M = 7221900. Time norm = 447. Time compres = 286.
+N = 3901, M = 7606950. Time norm = 457. Time compres = 303.
+N = 4001, M = 8002000. Time norm = 536. Time compres = 319.
+N = 4101, M = 8407050. Time norm = 522. Time compres = 334.
+N = 4201, M = 8822100. Time norm = 544. Time compres = 350.
+N = 4301, M = 9247150. Time norm = 561. Time compres = 368.
+N = 4401, M = 9682200. Time norm = 633. Time compres = 387.
+N = 4501, M = 10127250. Time norm = 625. Time compres = 404.
+N = 4601, M = 10582300. Time norm = 623. Time compres = 418.
+N = 4701, M = 11047350. Time norm = 653. Time compres = 440.
+N = 4801, M = 11522400. Time norm = 721. Time compres = 459.
+N = 4901, M = 12007450. Time norm = 761. Time compres = 476.
+N = 5001, M = 12502500. Time norm = 765. Time compres = 495.
+N = 5101, M = 13007550. Time norm = 848. Time compres = 517.
+N = 5201, M = 13522600. Time norm = 828. Time compres = 536.
+N = 5301, M = 14047650. Time norm = 899. Time compres = 573.
+N = 5401, M = 14582700. Time norm = 934. Time compres = 577.
+N = 5501, M = 15127750. Time norm = 982. Time compres = 600.
+N = 5601, M = 15682800. Time norm = 969. Time compres = 624.
+N = 5701, M = 16247850. Time norm = 997. Time compres = 642.
+N = 5801, M = 16822900. Time norm = 1043. Time compres = 669.
+N = 5901, M = 17407950. Time norm = 1029. Time compres = 688.
+N = 6001, M = 18003000. Time norm = 1144. Time compres = 713.
+N = 6101, M = 18608050. Time norm = 1214. Time compres = 737.
+N = 6201, M = 19223100. Time norm = 1161. Time compres = 815.
+N = 6301, M = 19848150. Time norm = 1222. Time compres = 788.
+N = 6401, M = 20483200. Time norm = 1250. Time compres = 811.
+N = 6501, M = 21128250. Time norm = 1282. Time compres = 840.
+N = 6601, M = 21783300. Time norm = 1331. Time compres = 901.
+N = 6701, M = 22448350. Time norm = 1338. Time compres = 892.
+N = 6801, M = 23123400. Time norm = 1430. Time compres = 919.
+N = 6901, M = 23808450. Time norm = 1478. Time compres = 946.
+N = 7001, M = 24503500. Time norm = 1545. Time compres = 972.
+N = 7101, M = 25208550. Time norm = 1570. Time compres = 1001.
+N = 7201, M = 25923600. Time norm = 1591. Time compres = 1029.
+N = 7301, M = 26648650. Time norm = 1671. Time compres = 1087.
+N = 7401, M = 27383700. Time norm = 1704. Time compres = 1109.
+N = 7501, M = 28128750. Time norm = 1732. Time compres = 1117.
+N = 7601, M = 28883800. Time norm = 1833. Time compres = 1188.
+N = 7701, M = 29648850. Time norm = 1822. Time compres = 1177.
+N = 7801, M = 30423900. Time norm = 1934. Time compres = 1206.
+N = 7901, M = 31208950. Time norm = 2022. Time compres = 1241.
+N = 8001, M = 32004000. Time norm = 2068. Time compres = 1269.
+N = 8101, M = 32809050. Time norm = 2039. Time compres = 1300.
+N = 8201, M = 33624100. Time norm = 2187. Time compres = 1355.
+N = 8301, M = 34449150. Time norm = 2233. Time compres = 1370.
+N = 8401, M = 35284200. Time norm = 2191. Time compres = 1403.
+N = 8501, M = 36129250. Time norm = 2309. Time compres = 1490.
+N = 8601, M = 36984300. Time norm = 2432. Time compres = 1473.
+N = 8701, M = 37849350. Time norm = 2624. Time compres = 1515.
+N = 8801, M = 38724400. Time norm = 2372. Time compres = 1546.
+N = 8901, M = 39609450. Time norm = 2468. Time compres = 1578.
+N = 9001, M = 40504500. Time norm = 2473. Time compres = 1617.
+N = 9101, M = 41409550. Time norm = 2555. Time compres = 1651.
+N = 9201, M = 42324600. Time norm = 2744. Time compres = 1801.
+N = 9301, M = 43249650. Time norm = 2686. Time compres = 1721.
+N = 9401, M = 44184700. Time norm = 2843. Time compres = 1759.
+N = 9501, M = 45129750. Time norm = 2848. Time compres = 1795.
+N = 9601, M = 46084800. Time norm = 2832. Time compres = 1833.
+N = 9701, M = 47049850. Time norm = 3108. Time compres = 1874.
+N = 9801, M = 48024900. Time norm = 3026. Time compres = 1917.
+N = 9901, M = 49009950. Time norm = 3059. Time compres = 1988.
+N = 10001, M = 50005000. Time norm = 3178. Time compres = 2037.
+0
+0
+2
+2
+5
+8
+11
+15
+18
+23
+32
+38
+46
+50
+60
+72
+76
+102
+100
+107
+120
+141
+158
+161
+183
+184
+207
+223
+236
+265
+283
+298
+302
+317
+348
+369
+403
+414
+447
+457
+536
+522
+544
+561
+633
+625
+623
+653
+721
+761
+765
+848
+828
+899
+934
+982
+969
+997
+1043
+1029
+1144
+1214
+1161
+1222
+1250
+1282
+1331
+1338
+1430
+1478
+1545
+1570
+1591
+1671
+1704
+1732
+1833
+1822
+1934
+2022
+2068
+2039
+2187
+2233
+2191
+2309
+2432
+2624
+2372
+2468
+2473
+2555
+2744
+2686
+2843
+2848
+2832
+3108
+3026
+3059
+3178
+
+0
+1
+1
+2
+4
+5
+7
+10
+13
+16
+20
+24
+29
+33
+39
+45
+51
+58
+65
+72
+80
+87
+95
+104
+116
+125
+135
+145
+155
+167
+178
+191
+203
+216
+230
+243
+256
+274
+286
+303
+319
+334
+350
+368
+387
+404
+418
+440
+459
+476
+495
+517
+536
+573
+577
+600
+624
+642
+669
+688
+713
+737
+815
+788
+811
+840
+901
+892
+919
+946
+972
+1001
+1029
+1087
+1109
+1117
+1188
+1177
+1206
+1241
+1269
+1300
+1355
+1370
+1403
+1490
+1473
+1515
+1546
+1578
+1617
+1651
+1801
+1721
+1759
+1795
+1833
+1874
+1917
+1988
+2037
+ test3. n=[101..1e4+1]/100, m=n*100, q=1, r=1e6 
+N = 101, M = 5050. Time norm = 0. Time compres = 0.
+N = 201, M = 20100. Time norm = 2. Time compres = 1.
+N = 301, M = 30100. Time norm = 2. Time compres = 2.
+N = 401, M = 40100. Time norm = 4. Time compres = 4.
+N = 501, M = 50100. Time norm = 7. Time compres = 4.
+N = 601, M = 60100. Time norm = 8. Time compres = 7.
+N = 701, M = 70100. Time norm = 11. Time compres = 7.
+N = 801, M = 80100. Time norm = 13. Time compres = 10.
+N = 901, M = 90100. Time norm = 18. Time compres = 11.
+N = 1001, M = 100100. Time norm = 22. Time compres = 12.
+N = 1101, M = 110100. Time norm = 23. Time compres = 14.
+N = 1201, M = 120100. Time norm = 24. Time compres = 16.
+N = 1301, M = 130100. Time norm = 28. Time compres = 18.
+N = 1401, M = 140100. Time norm = 30. Time compres = 20.
+N = 1501, M = 150100. Time norm = 32. Time compres = 22.
+N = 1601, M = 160100. Time norm = 37. Time compres = 25.
+N = 1701, M = 170100. Time norm = 38. Time compres = 26.
+N = 1801, M = 180100. Time norm = 43. Time compres = 28.
+N = 1901, M = 190100. Time norm = 45. Time compres = 33.
+N = 2001, M = 200100. Time norm = 45. Time compres = 31.
+N = 2101, M = 210100. Time norm = 50. Time compres = 34.
+N = 2201, M = 220100. Time norm = 53. Time compres = 35.
+N = 2301, M = 230100. Time norm = 56. Time compres = 37.
+N = 2401, M = 240100. Time norm = 58. Time compres = 40.
+N = 2501, M = 250100. Time norm = 65. Time compres = 42.
+N = 2601, M = 260100. Time norm = 65. Time compres = 43.
+N = 2701, M = 270100. Time norm = 75. Time compres = 45.
+N = 2801, M = 280100. Time norm = 74. Time compres = 47.
+N = 2901, M = 290100. Time norm = 80. Time compres = 49.
+N = 3001, M = 300100. Time norm = 81. Time compres = 52.
+N = 3101, M = 310100. Time norm = 77. Time compres = 53.
+N = 3201, M = 320100. Time norm = 84. Time compres = 56.
+N = 3301, M = 330100. Time norm = 90. Time compres = 60.
+N = 3401, M = 340100. Time norm = 92. Time compres = 61.
+N = 3501, M = 350100. Time norm = 93. Time compres = 64.
+N = 3601, M = 360100. Time norm = 96. Time compres = 65.
+N = 3701, M = 370100. Time norm = 105. Time compres = 68.
+N = 3801, M = 380100. Time norm = 110. Time compres = 70.
+N = 3901, M = 390100. Time norm = 109. Time compres = 72.
+N = 4001, M = 400100. Time norm = 111. Time compres = 74.
+N = 4101, M = 410100. Time norm = 112. Time compres = 76.
+N = 4201, M = 420100. Time norm = 125. Time compres = 78.
+N = 4301, M = 430100. Time norm = 123. Time compres = 80.
+N = 4401, M = 440100. Time norm = 134. Time compres = 83.
+N = 4501, M = 450100. Time norm = 129. Time compres = 86.
+N = 4601, M = 460100. Time norm = 132. Time compres = 87.
+N = 4701, M = 470100. Time norm = 132. Time compres = 99.
+N = 4801, M = 480100. Time norm = 140. Time compres = 92.
+N = 4901, M = 490100. Time norm = 143. Time compres = 94.
+N = 5001, M = 500100. Time norm = 145. Time compres = 99.
+N = 5101, M = 510100. Time norm = 150. Time compres = 99.
+N = 5201, M = 520100. Time norm = 157. Time compres = 102.
+N = 5301, M = 530100. Time norm = 153. Time compres = 104.
+N = 5401, M = 540100. Time norm = 159. Time compres = 105.
+N = 5501, M = 550100. Time norm = 163. Time compres = 108.
+N = 5601, M = 560100. Time norm = 161. Time compres = 110.
+N = 5701, M = 570100. Time norm = 166. Time compres = 113.
+N = 5801, M = 580100. Time norm = 174. Time compres = 116.
+N = 5901, M = 590100. Time norm = 183. Time compres = 118.
+N = 6001, M = 600100. Time norm = 179. Time compres = 120.
+N = 6101, M = 610100. Time norm = 196. Time compres = 123.
+N = 6201, M = 620100. Time norm = 188. Time compres = 125.
+N = 6301, M = 630100. Time norm = 204. Time compres = 128.
+N = 6401, M = 640100. Time norm = 190. Time compres = 131.
+N = 6501, M = 650100. Time norm = 192. Time compres = 133.
+N = 6601, M = 660100. Time norm = 214. Time compres = 137.
+N = 6701, M = 670100. Time norm = 211. Time compres = 137.
+N = 6801, M = 680100. Time norm = 216. Time compres = 151.
+N = 6901, M = 690100. Time norm = 220. Time compres = 143.
+N = 7001, M = 700100. Time norm = 210. Time compres = 146.
+N = 7101, M = 710100. Time norm = 213. Time compres = 147.
+N = 7201, M = 720100. Time norm = 220. Time compres = 150.
+N = 7301, M = 730100. Time norm = 223. Time compres = 153.
+N = 7401, M = 740100. Time norm = 241. Time compres = 158.
+N = 7501, M = 750100. Time norm = 231. Time compres = 158.
+N = 7601, M = 760100. Time norm = 234. Time compres = 160.
+N = 7701, M = 770100. Time norm = 237. Time compres = 162.
+N = 7801, M = 780100. Time norm = 239. Time compres = 165.
+N = 7901, M = 790100. Time norm = 248. Time compres = 167.
+N = 8001, M = 800100. Time norm = 261. Time compres = 170.
+N = 8101, M = 810100. Time norm = 257. Time compres = 172.
+N = 8201, M = 820100. Time norm = 265. Time compres = 175.
+N = 8301, M = 830100. Time norm = 255. Time compres = 180.
+N = 8401, M = 840100. Time norm = 272. Time compres = 182.
+N = 8501, M = 850100. Time norm = 265. Time compres = 183.
+N = 8601, M = 860100. Time norm = 273. Time compres = 185.
+N = 8701, M = 870100. Time norm = 284. Time compres = 187.
+N = 8801, M = 880100. Time norm = 270. Time compres = 190.
+N = 8901, M = 890100. Time norm = 274. Time compres = 198.
+N = 9001, M = 900100. Time norm = 320. Time compres = 198.
+N = 9101, M = 910100. Time norm = 307. Time compres = 200.
+N = 9201, M = 920100. Time norm = 288. Time compres = 200.
+N = 9301, M = 930100. Time norm = 312. Time compres = 228.
+N = 9401, M = 940100. Time norm = 299. Time compres = 206.
+N = 9501, M = 950100. Time norm = 309. Time compres = 208.
+N = 9601, M = 960100. Time norm = 319. Time compres = 210.
+N = 9701, M = 970100. Time norm = 312. Time compres = 214.
+N = 9801, M = 980100. Time norm = 330. Time compres = 218.
+N = 9901, M = 990100. Time norm = 345. Time compres = 218.
+N = 10001, M = 1000100. Time norm = 314. Time compres = 222.
+0
+2
+2
+4
+7
+8
+11
+13
+18
+22
+23
+24
+28
+30
+32
+37
+38
+43
+45
+45
+50
+53
+56
+58
+65
+65
+75
+74
+80
+81
+77
+84
+90
+92
+93
+96
+105
+110
+109
+111
+112
+125
+123
+134
+129
+132
+132
+140
+143
+145
+150
+157
+153
+159
+163
+161
+166
+174
+183
+179
+196
+188
+204
+190
+192
+214
+211
+216
+220
+210
+213
+220
+223
+241
+231
+234
+237
+239
+248
+261
+257
+265
+255
+272
+265
+273
+284
+270
+274
+320
+307
+288
+312
+299
+309
+319
+312
+330
+345
+314
+
+0
+1
+2
+4
+4
+7
+7
+10
+11
+12
+14
+16
+18
+20
+22
+25
+26
+28
+33
+31
+34
+35
+37
+40
+42
+43
+45
+47
+49
+52
+53
+56
+60
+61
+64
+65
+68
+70
+72
+74
+76
+78
+80
+83
+86
+87
+99
+92
+94
+99
+99
+102
+104
+105
+108
+110
+113
+116
+118
+120
+123
+125
+128
+131
+133
+137
+137
+151
+143
+146
+147
+150
+153
+158
+158
+160
+162
+165
+167
+170
+172
+175
+180
+182
+183
+185
+187
+190
+198
+198
+200
+200
+228
+206
+208
+210
+214
+218
+218
+222
+ test4. n=1e4+1, m=[1e5..1e7]/1e5, q=1, r=1e6 
+N = 10001, M = 100000. Time norm = 45. Time compres = 31.
+N = 10001, M = 200000. Time norm = 79. Time compres = 56.
+N = 10001, M = 300000. Time norm = 112. Time compres = 79.
+N = 10001, M = 400000. Time norm = 147. Time compres = 101.
+N = 10001, M = 500000. Time norm = 195. Time compres = 125.
+N = 10001, M = 600000. Time norm = 216. Time compres = 145.
+N = 10001, M = 700000. Time norm = 240. Time compres = 178.
+N = 10001, M = 800000. Time norm = 288. Time compres = 228.
+N = 10001, M = 900000. Time norm = 319. Time compres = 220.
+N = 10001, M = 1000000. Time norm = 319. Time compres = 221.
+N = 10001, M = 1100000. Time norm = 351. Time compres = 240.
+N = 10001, M = 1200000. Time norm = 390. Time compres = 259.
+N = 10001, M = 1300000. Time norm = 404. Time compres = 275.
+N = 10001, M = 1400000. Time norm = 433. Time compres = 306.
+N = 10001, M = 1500000. Time norm = 472. Time compres = 310.
+N = 10001, M = 1600000. Time norm = 564. Time compres = 325.
+N = 10001, M = 1700000. Time norm = 522. Time compres = 345.
+N = 10001, M = 1800000. Time norm = 536. Time compres = 360.
+N = 10001, M = 1900000. Time norm = 579. Time compres = 373.
+N = 10001, M = 2000000. Time norm = 632. Time compres = 389.
+N = 10001, M = 2100000. Time norm = 638. Time compres = 405.
+N = 10001, M = 2200000. Time norm = 639. Time compres = 420.
+N = 10001, M = 2300000. Time norm = 703. Time compres = 470.
+N = 10001, M = 2400000. Time norm = 731. Time compres = 448.
+N = 10001, M = 2500000. Time norm = 714. Time compres = 462.
+N = 10001, M = 2600000. Time norm = 735. Time compres = 479.
+N = 10001, M = 2700000. Time norm = 734. Time compres = 490.
+N = 10001, M = 2800000. Time norm = 804. Time compres = 505.
+N = 10001, M = 2900000. Time norm = 786. Time compres = 520.
+N = 10001, M = 3000000. Time norm = 841. Time compres = 544.
+N = 10001, M = 3100000. Time norm = 859. Time compres = 546.
+N = 10001, M = 3200000. Time norm = 966. Time compres = 575.
+N = 10001, M = 3300000. Time norm = 999. Time compres = 599.
+N = 10001, M = 3400000. Time norm = 887. Time compres = 585.
+N = 10001, M = 3500000. Time norm = 919. Time compres = 597.
+N = 10001, M = 3600000. Time norm = 964. Time compres = 612.
+N = 10001, M = 3700000. Time norm = 940. Time compres = 657.
+N = 10001, M = 3800000. Time norm = 989. Time compres = 779.
+N = 10001, M = 3900000. Time norm = 1068. Time compres = 662.
+N = 10001, M = 4000000. Time norm = 1060. Time compres = 780.
+N = 10001, M = 4100000. Time norm = 1167. Time compres = 711.
+N = 10001, M = 4200000. Time norm = 1068. Time compres = 689.
+N = 10001, M = 4300000. Time norm = 1095. Time compres = 760.
+N = 10001, M = 4400000. Time norm = 1100. Time compres = 712.
+N = 10001, M = 4500000. Time norm = 1123. Time compres = 724.
+N = 10001, M = 4600000. Time norm = 1178. Time compres = 769.
+N = 10001, M = 4700000. Time norm = 1115. Time compres = 746.
+N = 10001, M = 4800000. Time norm = 1163. Time compres = 759.
+N = 10001, M = 4900000. Time norm = 1291. Time compres = 772.
+N = 10001, M = 5000000. Time norm = 1207. Time compres = 782.
+N = 10001, M = 5100000. Time norm = 1214. Time compres = 797.
+N = 10001, M = 5200000. Time norm = 1369. Time compres = 844.
+N = 10001, M = 5300000. Time norm = 1422. Time compres = 857.
+N = 10001, M = 5400000. Time norm = 1292. Time compres = 826.
+N = 10001, M = 5500000. Time norm = 1361. Time compres = 869.
+N = 10001, M = 5600000. Time norm = 1437. Time compres = 908.
+N = 10001, M = 5700000. Time norm = 1338. Time compres = 893.
+N = 10001, M = 5800000. Time norm = 1349. Time compres = 872.
+N = 10001, M = 5900000. Time norm = 1355. Time compres = 883.
+N = 10001, M = 6000000. Time norm = 1353. Time compres = 896.
+N = 10001, M = 6100000. Time norm = 1393. Time compres = 903.
+N = 10001, M = 6200000. Time norm = 1511. Time compres = 1013.
+N = 10001, M = 6300000. Time norm = 1582. Time compres = 924.
+N = 10001, M = 6400000. Time norm = 1558. Time compres = 968.
+N = 10001, M = 6500000. Time norm = 1519. Time compres = 942.
+N = 10001, M = 6600000. Time norm = 1559. Time compres = 972.
+N = 10001, M = 6700000. Time norm = 1553. Time compres = 983.
+N = 10001, M = 6800000. Time norm = 1736. Time compres = 1048.
+N = 10001, M = 6900000. Time norm = 1534. Time compres = 1018.
+N = 10001, M = 7000000. Time norm = 1712. Time compres = 1034.
+N = 10001, M = 7100000. Time norm = 1648. Time compres = 1009.
+N = 10001, M = 7200000. Time norm = 1554. Time compres = 1020.
+N = 10001, M = 7300000. Time norm = 1820. Time compres = 1037.
+N = 10001, M = 7400000. Time norm = 1677. Time compres = 1038.
+N = 10001, M = 7500000. Time norm = 1773. Time compres = 1120.
+N = 10001, M = 7600000. Time norm = 1699. Time compres = 1056.
+N = 10001, M = 7700000. Time norm = 1632. Time compres = 1064.
+N = 10001, M = 7800000. Time norm = 1729. Time compres = 1088.
+N = 10001, M = 7900000. Time norm = 1778. Time compres = 1085.
+N = 10001, M = 8000000. Time norm = 1680. Time compres = 1092.
+N = 10001, M = 8100000. Time norm = 1650. Time compres = 1102.
+N = 10001, M = 8200000. Time norm = 1690. Time compres = 1112.
+N = 10001, M = 8300000. Time norm = 1862. Time compres = 1122.
+N = 10001, M = 8400000. Time norm = 1900. Time compres = 1200.
+N = 10001, M = 8500000. Time norm = 1848. Time compres = 1142.
+N = 10001, M = 8600000. Time norm = 1887. Time compres = 1227.
+N = 10001, M = 8700000. Time norm = 2002. Time compres = 1157.
+N = 10001, M = 8800000. Time norm = 1850. Time compres = 1165.
+N = 10001, M = 8900000. Time norm = 1904. Time compres = 1208.
+N = 10001, M = 9000000. Time norm = 1952. Time compres = 1201.
+N = 10001, M = 9100000. Time norm = 1941. Time compres = 1192.
+N = 10001, M = 9200000. Time norm = 1964. Time compres = 1315.
+N = 10001, M = 9300000. Time norm = 1982. Time compres = 1270.
+N = 10001, M = 9400000. Time norm = 1967. Time compres = 1257.
+N = 10001, M = 9500000. Time norm = 1913. Time compres = 1224.
+N = 10001, M = 9600000. Time norm = 1980. Time compres = 1233.
+N = 10001, M = 9700000. Time norm = 1980. Time compres = 1342.
+N = 10001, M = 9800000. Time norm = 2002. Time compres = 1250.
+N = 10001, M = 9900000. Time norm = 1962. Time compres = 1326.
+N = 10001, M = 10000000. Time norm = 2213. Time compres = 1311.
+45
+79
+112
+147
+195
+216
+240
+288
+319
+319
+351
+390
+404
+433
+472
+564
+522
+536
+579
+632
+638
+639
+703
+731
+714
+735
+734
+804
+786
+841
+859
+966
+999
+887
+919
+964
+940
+989
+1068
+1060
+1167
+1068
+1095
+1100
+1123
+1178
+1115
+1163
+1291
+1207
+1214
+1369
+1422
+1292
+1361
+1437
+1338
+1349
+1355
+1353
+1393
+1511
+1582
+1558
+1519
+1559
+1553
+1736
+1534
+1712
+1648
+1554
+1820
+1677
+1773
+1699
+1632
+1729
+1778
+1680
+1650
+1690
+1862
+1900
+1848
+1887
+2002
+1850
+1904
+1952
+1941
+1964
+1982
+1967
+1913
+1980
+1980
+2002
+1962
+2213
+
+31
+56
+79
+101
+125
+145
+178
+228
+220
+221
+240
+259
+275
+306
+310
+325
+345
+360
+373
+389
+405
+420
+470
+448
+462
+479
+490
+505
+520
+544
+546
+575
+599
+585
+597
+612
+657
+779
+662
+780
+711
+689
+760
+712
+724
+769
+746
+759
+772
+782
+797
+844
+857
+826
+869
+908
+893
+872
+883
+896
+903
+1013
+924
+968
+942
+972
+983
+1048
+1018
+1034
+1009
+1020
+1037
+1038
+1120
+1056
+1064
+1088
+1085
+1092
+1102
+1112
+1122
+1200
+1142
+1227
+1157
+1165
+1208
+1201
+1192
+1315
+1270
+1257
+1224
+1233
+1342
+1250
+1326
+1311
+ test5. n=1e4+1, m=n*1000, q=1, r=[1..200]/1
+N = 10001, M = 10001000. Time norm = 1152. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1300.
+N = 10001, M = 10001000. Time norm = 1197. Time compres = 1413.
+N = 10001, M = 10001000. Time norm = 1248. Time compres = 1352.
+N = 10001, M = 10001000. Time norm = 1151. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1156. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1191. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1370.
+N = 10001, M = 10001000. Time norm = 1221. Time compres = 1314.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1153. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1205. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1214. Time compres = 1325.
+N = 10001, M = 10001000. Time norm = 1153. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1182. Time compres = 1344.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1153. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1192. Time compres = 1285.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1342.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1342.
+N = 10001, M = 10001000. Time norm = 1156. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1283. Time compres = 1340.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1153. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1250. Time compres = 1340.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1153. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1210. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1245. Time compres = 1282.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1190. Time compres = 1300.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1152. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1263.
+N = 10001, M = 10001000. Time norm = 1155. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1212. Time compres = 1373.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1158. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1277.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1165. Time compres = 1263.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1315.
+N = 10001, M = 10001000. Time norm = 1154. Time compres = 1370.
+N = 10001, M = 10001000. Time norm = 1194. Time compres = 1541.
+N = 10001, M = 10001000. Time norm = 1199. Time compres = 1282.
+N = 10001, M = 10001000. Time norm = 1242. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1185. Time compres = 1295.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1203. Time compres = 1398.
+N = 10001, M = 10001000. Time norm = 1158. Time compres = 1288.
+N = 10001, M = 10001000. Time norm = 1179. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1164. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1201. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1157. Time compres = 1284.
+N = 10001, M = 10001000. Time norm = 1192. Time compres = 1291.
+N = 10001, M = 10001000. Time norm = 1164. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1156. Time compres = 1272.
+N = 10001, M = 10001000. Time norm = 1162. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1196. Time compres = 1347.
+N = 10001, M = 10001000. Time norm = 1160. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1198. Time compres = 1411.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1291. Time compres = 1380.
+N = 10001, M = 10001000. Time norm = 1202. Time compres = 1317.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1179. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1402.
+N = 10001, M = 10001000. Time norm = 1165. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1293.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1216. Time compres = 1323.
+N = 10001, M = 10001000. Time norm = 1162. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1226. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1162. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1200. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1272.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1350.
+N = 10001, M = 10001000. Time norm = 1203. Time compres = 1326.
+N = 10001, M = 10001000. Time norm = 1220. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1296.
+N = 10001, M = 10001000. Time norm = 1170. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1167. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1194. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1239. Time compres = 1316.
+N = 10001, M = 10001000. Time norm = 1227. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1164. Time compres = 1282.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1274.
+N = 10001, M = 10001000. Time norm = 1276. Time compres = 1280.
+N = 10001, M = 10001000. Time norm = 1251. Time compres = 1325.
+N = 10001, M = 10001000. Time norm = 1190. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1159. Time compres = 1387.
+N = 10001, M = 10001000. Time norm = 1165. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1272.
+N = 10001, M = 10001000. Time norm = 1164. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1170. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1295.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1165. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1165. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1171. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1170. Time compres = 1274.
+N = 10001, M = 10001000. Time norm = 1188. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1193. Time compres = 1319.
+N = 10001, M = 10001000. Time norm = 1274. Time compres = 1309.
+N = 10001, M = 10001000. Time norm = 1175. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1245. Time compres = 1385.
+N = 10001, M = 10001000. Time norm = 1179. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1161. Time compres = 1432.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1167. Time compres = 1291.
+N = 10001, M = 10001000. Time norm = 1182. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1225. Time compres = 1303.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1283.
+N = 10001, M = 10001000. Time norm = 1178. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1164. Time compres = 1354.
+N = 10001, M = 10001000. Time norm = 1171. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1175. Time compres = 1303.
+N = 10001, M = 10001000. Time norm = 1198. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1174. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1238. Time compres = 1300.
+N = 10001, M = 10001000. Time norm = 1170. Time compres = 1294.
+N = 10001, M = 10001000. Time norm = 1171. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1262. Time compres = 1297.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1166. Time compres = 1284.
+N = 10001, M = 10001000. Time norm = 1180. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1162. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1171. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1179. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1292.
+N = 10001, M = 10001000. Time norm = 1172. Time compres = 1320.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1212. Time compres = 1436.
+N = 10001, M = 10001000. Time norm = 1189. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1180. Time compres = 1277.
+N = 10001, M = 10001000. Time norm = 1163. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1200. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1203. Time compres = 1276.
+N = 10001, M = 10001000. Time norm = 1181. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1268. Time compres = 1368.
+N = 10001, M = 10001000. Time norm = 1224. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1177. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1169. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1171. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1168. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1193. Time compres = 1272.
+N = 10001, M = 10001000. Time norm = 1181. Time compres = 1265.
+N = 10001, M = 10001000. Time norm = 1173. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1291. Time compres = 1289.
+N = 10001, M = 10001000. Time norm = 1217. Time compres = 1293.
+N = 10001, M = 10001000. Time norm = 1218. Time compres = 1296.
+N = 10001, M = 10001000. Time norm = 1176. Time compres = 1276.
+N = 10001, M = 10001000. Time norm = 1206. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1426. Time compres = 1336.
+N = 10001, M = 10001000. Time norm = 1221. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1192. Time compres = 1273.
+N = 10001, M = 10001000. Time norm = 1219. Time compres = 1275.
+N = 10001, M = 10001000. Time norm = 1173. Time compres = 1275.
+N = 10001, M = 10001000. Time norm = 1187. Time compres = 1276.
+N = 10001, M = 10001000. Time norm = 1176. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1225. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1182. Time compres = 1268.
+N = 10001, M = 10001000. Time norm = 1220. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1177. Time compres = 1270.
+N = 10001, M = 10001000. Time norm = 1186. Time compres = 1324.
+N = 10001, M = 10001000. Time norm = 1202. Time compres = 1263.
+N = 10001, M = 10001000. Time norm = 1204. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1180. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1205. Time compres = 1264.
+N = 10001, M = 10001000. Time norm = 1181. Time compres = 1267.
+N = 10001, M = 10001000. Time norm = 1176. Time compres = 1312.
+N = 10001, M = 10001000. Time norm = 1180. Time compres = 1271.
+N = 10001, M = 10001000. Time norm = 1208. Time compres = 1266.
+N = 10001, M = 10001000. Time norm = 1185. Time compres = 1269.
+N = 10001, M = 10001000. Time norm = 1174. Time compres = 1303.
+1152
+1155
+1197
+1248
+1151
+1156
+1155
+1159
+1154
+1191
+1154
+1221
+1161
+1153
+1205
+1214
+1153
+1182
+1157
+1153
+1155
+1192
+1154
+1155
+1159
+1156
+1154
+1283
+1155
+1153
+1155
+1250
+1157
+1154
+1153
+1210
+1245
+1157
+1190
+1155
+1161
+1166
+1152
+1161
+1155
+1212
+1157
+1158
+1168
+1157
+1159
+1165
+1159
+1157
+1159
+1154
+1194
+1199
+1242
+1185
+1166
+1166
+1203
+1158
+1179
+1164
+1201
+1157
+1192
+1164
+1156
+1162
+1196
+1160
+1198
+1163
+1291
+1202
+1163
+1179
+1161
+1165
+1166
+1161
+1169
+1216
+1162
+1226
+1162
+1200
+1166
+1166
+1203
+1220
+1169
+1170
+1167
+1194
+1239
+1227
+1163
+1168
+1161
+1169
+1164
+1166
+1276
+1251
+1190
+1159
+1165
+1168
+1164
+1170
+1168
+1168
+1165
+1165
+1168
+1171
+1170
+1188
+1193
+1274
+1175
+1245
+1179
+1169
+1168
+1161
+1169
+1167
+1182
+1225
+1169
+1178
+1169
+1164
+1171
+1175
+1198
+1174
+1238
+1170
+1171
+1262
+1169
+1166
+1180
+1162
+1171
+1179
+1163
+1172
+1163
+1212
+1189
+1180
+1163
+1200
+1168
+1203
+1181
+1268
+1224
+1169
+1177
+1169
+1171
+1168
+1193
+1181
+1173
+1291
+1217
+1218
+1176
+1206
+1426
+1221
+1192
+1219
+1173
+1187
+1176
+1225
+1182
+1220
+1177
+1186
+1202
+1204
+1180
+1205
+1181
+1176
+1180
+1208
+1185
+1174
+
+1268
+1300
+1413
+1352
+1271
+1268
+1267
+1266
+1268
+1273
+1370
+1314
+1264
+1265
+1265
+1325
+1267
+1344
+1268
+1267
+1267
+1285
+1342
+1267
+1342
+1266
+1268
+1340
+1264
+1267
+1266
+1340
+1267
+1266
+1266
+1270
+1282
+1265
+1300
+1271
+1267
+1267
+1264
+1263
+1265
+1373
+1266
+1266
+1266
+1277
+1266
+1263
+1264
+1269
+1315
+1370
+1541
+1282
+1265
+1295
+1266
+1265
+1398
+1288
+1269
+1268
+1268
+1284
+1291
+1265
+1272
+1268
+1347
+1264
+1411
+1269
+1380
+1317
+1270
+1267
+1402
+1273
+1293
+1269
+1267
+1323
+1267
+1269
+1266
+1268
+1272
+1350
+1326
+1273
+1296
+1267
+1273
+1271
+1316
+1267
+1271
+1268
+1267
+1270
+1282
+1274
+1280
+1325
+1267
+1387
+1269
+1272
+1271
+1267
+1295
+1267
+1266
+1265
+1266
+1268
+1274
+1269
+1319
+1309
+1267
+1385
+1265
+1269
+1266
+1432
+1269
+1291
+1266
+1303
+1283
+1271
+1268
+1354
+1270
+1303
+1266
+1268
+1300
+1294
+1268
+1297
+1265
+1284
+1264
+1268
+1265
+1266
+1292
+1320
+1264
+1436
+1265
+1277
+1268
+1268
+1264
+1276
+1266
+1368
+1267
+1271
+1267
+1267
+1267
+1264
+1272
+1265
+1270
+1289
+1293
+1296
+1276
+1268
+1336
+1273
+1273
+1275
+1275
+1276
+1270
+1269
+1268
+1271
+1270
+1324
+1263
+1267
+1269
+1264
+1267
+1312
+1271
+1266
+1269
+1303
